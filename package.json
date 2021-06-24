@@ -10,7 +10,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.13",
-    "@headlessui/react": "^0.2.0",
+    "@headlessui/react": "^0.3.2",
     "algoliasearch": "^3.35.1",
     "autoprefixer": "^9.8.6",
     "classnames": "^2.2.6",
